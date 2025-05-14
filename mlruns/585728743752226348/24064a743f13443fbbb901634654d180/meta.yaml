@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/585728743752226348/24064a743f13443fbbb901634654d180/artifacts
+end_time: 1747220997539
+entry_point_name: ''
+experiment_id: '585728743752226348'
+lifecycle_stage: active
+run_id: 24064a743f13443fbbb901634654d180
+run_name: sincere-croc-663
+run_uuid: 24064a743f13443fbbb901634654d180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747220976741
+status: 3
+tags: []
+user_id: Rajpar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/585728743752226348/e2450569e4cf4f388921cd7e5733afcf/artifacts
+end_time: 1747213376749
+entry_point_name: ''
+experiment_id: '585728743752226348'
+lifecycle_stage: active
+run_id: e2450569e4cf4f388921cd7e5733afcf
+run_name: upset-bug-157
+run_uuid: e2450569e4cf4f388921cd7e5733afcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747213376574
+status: 3
+tags: []
+user_id: Rajpar

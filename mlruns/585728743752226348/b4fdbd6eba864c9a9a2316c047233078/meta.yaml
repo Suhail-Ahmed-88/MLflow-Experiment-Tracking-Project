@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/585728743752226348/b4fdbd6eba864c9a9a2316c047233078/artifacts
+end_time: 1747213038786
+entry_point_name: ''
+experiment_id: '585728743752226348'
+lifecycle_stage: active
+run_id: b4fdbd6eba864c9a9a2316c047233078
+run_name: trusting-crane-953
+run_uuid: b4fdbd6eba864c9a9a2316c047233078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747213038595
+status: 3
+tags: []
+user_id: Rajpar

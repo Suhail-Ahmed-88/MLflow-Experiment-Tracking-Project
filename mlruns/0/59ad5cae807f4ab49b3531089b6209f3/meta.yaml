@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/59ad5cae807f4ab49b3531089b6209f3/artifacts
+end_time: 1747210089109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59ad5cae807f4ab49b3531089b6209f3
+run_name: omniscient-skink-718
+run_uuid: 59ad5cae807f4ab49b3531089b6209f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747210088587
+status: 3
+tags: []
+user_id: Rajpar

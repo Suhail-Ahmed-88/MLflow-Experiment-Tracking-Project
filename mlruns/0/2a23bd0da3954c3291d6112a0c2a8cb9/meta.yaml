@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2a23bd0da3954c3291d6112a0c2a8cb9/artifacts
+end_time: 1747209326361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a23bd0da3954c3291d6112a0c2a8cb9
+run_name: big-moose-630
+run_uuid: 2a23bd0da3954c3291d6112a0c2a8cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747209323819
+status: 3
+tags: []
+user_id: Rajpar
